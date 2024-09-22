@@ -1,0 +1,20 @@
+EN :
+
+to use the IP Tracker:
+
+- Start by selecting number 1 (which is the number of this option)
+
+- Once you are on the interface, write the IP of your choice. If the IP is invalid, this will be marked, and if the IP is valid, this will always be marked.
+
+- And once the IP is tracked, you will have information, such as: The region, the postal code, the village / town and much more.
+
+
+FR :
+
+pour utiliser l'IP Tracker :
+
+- Commencer par séléctionner le numéro 1 (qui est le numéro de cette options)
+
+- Une fois que vous êtes sur l'interface, écrivez l'IP de votre choix. Si l'IP est invalide, ce sera marqué, et si l'IP est valide, ce sera toujours marqué.
+
+- Et une fois que l'IP sera tracker, vous aurez des informations, tels-que : La région, le code postal, le village / ville et bien plus.
